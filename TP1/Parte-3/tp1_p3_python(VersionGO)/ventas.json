@@ -1,0 +1,194 @@
+[
+    {
+        "SUCURSAL": 1,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Coca-cola",
+        "MONTO": 100
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Pepsi",
+        "MONTO": 120
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Fanta",
+        "MONTO": 90
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Sprite",
+        "MONTO": 110
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Mirinda",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Seven Up",
+        "MONTO": 105
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Manaos",
+        "MONTO": 80
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Guarana",
+        "MONTO": 115
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Schweppes",
+        "MONTO": 125
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Mundet",
+        "MONTO": 85
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Jarritos",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Boing",
+        "MONTO": 100
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Squirt",
+        "MONTO": 110
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Sunkist",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Sidral Mundet",
+        "MONTO": 120
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Tahiti",
+        "MONTO": 90
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Coca-cola",
+        "MONTO": 100
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Pepsi",
+        "MONTO": 120
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Fanta",
+        "MONTO": 90
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Sprite",
+        "MONTO": 110
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Mirinda",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Seven Up",
+        "MONTO": 105
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Manaos",
+        "MONTO": 80
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Guarana",
+        "MONTO": 115
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Schweppes",
+        "MONTO": 125
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Mundet",
+        "MONTO": 85
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Jarritos",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "04-04-2024",
+        "PRODUCTO": "Boing",
+        "MONTO": 100
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "05-04-2024",
+        "PRODUCTO": "Squirt",
+        "MONTO": 110
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "01-04-2024",
+        "PRODUCTO": "Sunkist",
+        "MONTO": 95
+    },
+    {
+        "SUCURSAL": 1,
+        "FECHA": "02-04-2024",
+        "PRODUCTO": "Sidral Mundet",
+        "MONTO": 120
+    },
+    {
+        "SUCURSAL": 2,
+        "FECHA": "03-04-2024",
+        "PRODUCTO": "Tahiti",
+        "MONTO": 90
+    }
+]
