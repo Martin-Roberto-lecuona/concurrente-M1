@@ -11,7 +11,7 @@
 #include <atomic>
 #include <sstream>
 #include <chrono>
-#include <mutex> A
+#include <mutex>
 #include <unordered_map>
 
 // Lo que arruina mucho el tiempo es el mapa debido a que hay que usar mutex. Hay bibliotecas como tbb o Folly que tienen 
